@@ -1,0 +1,9 @@
+<html>
+    <head></head>
+    <body>
+        @include('includes.customertopbar')
+        <div>
+            @yield('content')
+        </div>
+    </body>
+</html>
